@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lorenzo, 26</h1>
-<h3 align="center">Developer & IT Consultant turning ideas into digital stuff that works 🚀</h3>
+<h1 align="left">Hi 👋, I'm Lorenzo, 26</h1>
+<h3 align="left">Developer & IT Consultant turning ideas into digital stuff that works 🚀</h3>
 
 ---
 
