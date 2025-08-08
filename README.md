@@ -16,7 +16,6 @@
 
 These are the tools and tech I use **on the regular**:
 
-<p align="left">
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
@@ -30,8 +29,7 @@ These are the tools and tech I use **on the regular**:
 ![Lodash](https://img.shields.io/badge/Lodash-3492FF?logo=lodash&logoColor=fff&style=flat) 
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat)  
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
-</p>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)  
 
 ---
 
@@ -39,7 +37,6 @@ These are the tools and tech I use **on the regular**:
 
 Things I've used in production or explored — **not daily drivers, but always in the toolbox**:
 
-<p align="left">
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
@@ -48,7 +45,6 @@ Things I've used in production or explored — **not daily drivers, but always i
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white) 
 ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white) 
-</p>
 
 ---
 
