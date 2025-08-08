@@ -30,7 +30,7 @@ These are the tools and tech I use **on the regular**:
 ![Lodash](https://img.shields.io/badge/Lodash-3492FF?logo=lodash&logoColor=fff&style=flat) 
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat)  
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)  
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 </p>
 
 ---
