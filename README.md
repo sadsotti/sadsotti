@@ -4,7 +4,7 @@
 ---
 
 - 🔭 Currently juggling **multiple web and design projects**
-- 🧠 Learning more about **Flutter, Dart, Angular, Vue.js & Node.js**
+- 🧠 Learning more about **Flutter, Dart, Angular, Vue.js, Node.js & Python**
 - 🛠️ Obsessed with clean code, decent UX and efficient solutions
 - 🗨️ Ask me literally **anything tech** — I love a challenge
 - 📄 Here's my CV if you're curious: [lorenzosottile.it/cv.html](https://www.lorenzosottile.it/cv.html)
