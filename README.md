@@ -26,6 +26,7 @@ These are the tools and tech I use **on the regular**:
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)
+![Axios](https://img.shields.io/badge/axios-671ddf?&style=flat&logo=axios&logoColor=fff)
 ![Lodash](https://img.shields.io/badge/Lodash-3492FF?logo=lodash&logoColor=fff&style=flat)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat) 
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
