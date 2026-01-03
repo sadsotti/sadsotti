@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Lorenzo, 26</h1>
+<h1 align="left">Hi 👋, I'm Lorenzo, 27</h1>
 <h3 align="left">Developer & IT Consultant turning ideas into digital stuff that works 🚀</h3>
 
 ---
