@@ -9,7 +9,6 @@
 - 🗨️ Ask me literally **anything tech** — I love a challenge
 - 📄 Here's my CV if you're curious: [lorenzosottile.it/cv.html](https://www.lorenzosottile.it/cv.html)
 - 🐈 Fun fact: **Cats > Dogs**, no debate
-- 🐧 I use **Arch**, btw
 
 ---
 
