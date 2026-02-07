@@ -7,7 +7,7 @@
 - 🧠 Learning more about **Flutter, Dart & Python**
 - 🛠️ Obsessed with clean code, decent UX and efficient solutions
 - 🗨️ Ask me literally **anything tech** — I love a challenge
-- 📄 Here's my CV if you're curious: [lorenzosottile.it/cv.html](https://www.lorenzosottile.it/cv.html)
+- 📄 Here's my CV if you're curious: [lorenzosottile.it/](https://www.lorenzosottile.it/)
 - 🐈 Fun fact: **Cats > Dogs**, no debate
 
 ---
