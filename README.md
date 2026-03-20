@@ -4,7 +4,7 @@
 ---
 
 - 🔭 Currently juggling **multiple web and design projects**
-- 🧠 Learning more about **Machine Learning Foundations, Deep Learning & Neural Networks, LLMs & Transformers**
+- 🧠 Learning more about **Machine Learning Foundations**, **Deep Learning** & **Neural Networks**, **LLMs** & **Transformers**
 - 🛠️ Obsessed with clean code, decent UX and efficient solutions
 - 🗨️ Ask me literally **anything tech** — I love a challenge
 - 📄 Here's my CV if you're curious: [lorenzosottile.it](https://www.lorenzosottile.it)
