@@ -4,7 +4,7 @@
 ---
 
 - 🔭 Currently juggling **multiple web and design projects**
-- 🧠 Learning more about **Flutter, Dart & Python**
+- 🧠 Learning more about **Machine Learning Foundations, Deep Learning & Neural Networks, LLMs & Transformers**
 - 🛠️ Obsessed with clean code, decent UX and efficient solutions
 - 🗨️ Ask me literally **anything tech** — I love a challenge
 - 📄 Here's my CV if you're curious: [lorenzosottile.it](https://www.lorenzosottile.it)
@@ -39,6 +39,7 @@ These are the tools and tech I use **on the regular**:
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
@@ -63,10 +64,10 @@ Things I've used in production or explored — **not daily drivers, but always i
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white)
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
 ---
