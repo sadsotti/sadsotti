@@ -46,7 +46,7 @@ These are the tools and tech I use **on the regular**:
 ![Firebase Studio](https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)
 ![Railway](https://img.shields.io/badge/Railway-131415?logo=railway&logoColor=white)
-
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000)
 ---
 
 ## 🤹 Familiar With
