@@ -7,7 +7,7 @@
 - 🧠 Learning more about **Machine Learning Foundations**, **Deep Learning** & **Neural Networks**, **LLMs** & **Transformers**
 - 🛠️ Obsessed with clean code, decent UX and efficient solutions
 - 🗨️ Ask me literally **anything tech** — I love a challenge
-- 📄 Here's my CV if you're curious: [lorenzosottile.it](https://www.lorenzosottile.it)
+- 📄 Here's my website if you're curious: [lorenzosottile.it](https://www.lorenzosottile.it)
 - 🐈 Fun fact: **Cats > Dogs**, no debate
 
 ---
